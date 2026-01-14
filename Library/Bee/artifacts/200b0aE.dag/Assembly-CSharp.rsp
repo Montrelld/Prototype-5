@@ -326,8 +326,10 @@
 -r:"/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Course Library/Scripts/Enemy.cs"
 "Assets/Course Library/Scripts/PlayerMovment.cs"
 "Assets/Course Library/Scripts/RotateCamera.cs"
+"Assets/Course Library/Scripts/SpawnManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
