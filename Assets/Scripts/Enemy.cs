@@ -9,7 +9,7 @@ public class Enemy : MonoBehaviour
     private GameObject player;
     public float speed;
     private Vector3 lookDirection;
-    public GameObject enemyPrefab;
+
 
     // Start is called before the first frame update
     void Start()
